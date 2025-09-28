@@ -206,7 +206,7 @@ a = 2.4 → sıkıştırma (sinyal hızlanmış gibi.)
 
 - Bir sinyal 𝑥[𝑛] genellikle çift (even) ve tek (odd) bileşenlere ayrılabilir: 𝑥[𝑛]=𝑥𝑒​[𝑛]+𝑥𝑜​[𝑛]
 - Çift bileşen (𝑥𝑒[𝑛]) simetriktir: 𝑥𝑒​[𝑛]=(𝑥[𝑛]+𝑥[−𝑛])/2​
-- Tek bileşen (𝑥𝑜[𝑛]) antisimetri gösterir: 𝑥𝑜[n]=(𝑥[𝑛]-𝑥[−𝑛])/2​​
+- Tek bileşen (𝑥𝑜[𝑛]) antisimetri gösterir: 𝑥𝑜[𝑛]=(𝑥[𝑛]-𝑥[−𝑛])/2​​
 - 𝑥𝑒[−𝑛]=𝑥𝑒[𝑛]
 - 𝑥𝑜[−𝑛]=−𝑥𝑜[𝑛]
 - Her sinyalin 𝑥[𝑛] toplamı bu iki bileşenle bulunur.
